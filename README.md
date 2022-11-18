@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fernandoandreotti
 - 👀 I’m interested in machine learning, data engineering, data science, real world data, electronic health records, amongst others
-- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on intersting projects
 - 📫 How to reach me fernando.andreotti@gmx.de
 
