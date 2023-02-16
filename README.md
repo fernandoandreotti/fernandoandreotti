@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fernandoandreotti
 - 👀 I’m interested in machine learning, data engineering, data science, real world data, electronic health records, amongst others
 - 💞️ I’m looking to collaborate on intersting projects
-- 📫 How to reach me fernando.andreotti@gmx.de
+- 📫 How to reach me fernando@andreotti.family
 
 <!---
 fernandoandreotti/fernandoandreotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
