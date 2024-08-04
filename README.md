@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fernandoandreotti
-- 👀 I’m interested in machine learning, data engineering, electronic health records, smart contracts, amongst others
+- 👀 I’m interested in machine learning, generative AI, data engineering, healthcare, smart contracts, amongst others
 - 💞️ I’m looking to collaborate on intersting projects
 - 📫 How to reach me fernando@andreotti.family
 
